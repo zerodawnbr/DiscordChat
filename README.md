@@ -23,8 +23,8 @@ Dentro desse arquivo você pode habilitar ou desabilitar quais mensagens devem s
     "logGlobal": 0,
     "Servers": [
         {
-            "id": "1401242642309709876",
-            "token": "vWkzQ3LMbqGA9uxdB9mRxqjHOhz5S5n9s6JdBK3ssqLrjBc0mzq1aDaKorgjWIWgDIG9",
+            "id": "140124264230970123",
+            "token": "vWkzQ3LMbqGA9uxdB9mRxqjHOhz5S5nqLrjBc0mzq1aDaKorgjWIWgDIG9",
             "sendDirect": 1,
             "sendGlobal": 1
         }

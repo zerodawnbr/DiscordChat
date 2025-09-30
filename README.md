@@ -1,3 +1,6 @@
+<p align="center"> <img src="https://github.com/zerodawnbr/zerodawntoolbox/blob/main/imgs/banner.jpg" alt="Banner Zero Dawn"> </p>
+
+
 # Envio de mensagens do chat
 
 As mensagens digitadas no chat do servidor DayZ são automaticamente enviadas para o **Discord**, em tempo real.  
@@ -46,3 +49,4 @@ Explicação dos campos
 
 
 
+<br><br><p align="center"> <img src="https://github.com/zerodawnbr/zerodawntoolbox/blob/main/imgs/banner.jpg" alt="Banner Zero Dawn"> </p>
